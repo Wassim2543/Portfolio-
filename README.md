@@ -24,7 +24,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 - 🔥 3D visuals powered by **React Three Fiber** and **Drei**
 - ⚡ Smooth transitions and scroll-based animations using **Framer Motion**
 - 🎨 Clean, responsive UI with **TailwindCSS**
-- 💌 Working contact form using **EmailJS**
+- 💌 Working contact form using **Formspree**
 - 🧱 Beautiful UI enhancements with **Aceternity UI** and **Magic UI**
 - 🚀 Lightning-fast development with **Vite**
 
